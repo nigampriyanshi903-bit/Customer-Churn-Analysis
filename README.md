@@ -14,8 +14,6 @@ This project analyzes a telecommunications dataset to identify the main drivers 
 | :--- | :--- |
 | **Total Customers** | 7.04K |
 | **Total Tech Tickets** | 2,955 |
-| **Total Admin Tickets** | [Value not visible in image] |
-| **Customers Retained** | [Value not visible in image] |
 
 ---
 
